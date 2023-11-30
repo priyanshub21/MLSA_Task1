@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/2.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with tasks and responsiblities";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Research profile 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Interested in space and science",
+    url: "https://www.researchgate.net/profile/Priyanshu-Bhatia",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My gihub projects",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My projects in machine learning",
+    url: "https://github.com/priyanshub21/MLSA_Task1",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Artificial intelligence",
+    url: "https://internshala.com/user_preference/preferences",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Coursera ID",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My completed courses in ML and deep learning",
+    url: "https://www.coursera.org/user/ea0bc848bf1851ba3882f04b53313b98",
   },
 ];
 
